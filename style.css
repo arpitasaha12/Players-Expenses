@@ -85,3 +85,8 @@
 .buttonid {
     background-color: rgb(9, 9, 91);
 }
+
+.footer {
+    height: 150px;
+    background-color: black;
+}
