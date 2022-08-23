@@ -2,6 +2,7 @@
     height: 400px;
     margin-top: 20px;
     padding-top: 20px;
+    background-color: rgb(10, 10, 10);
 
 }
 
@@ -16,6 +17,7 @@
     margin-left: 15px;
     color: aliceblue;
     align-items: center;
+    background-color: rgb(10, 10, 10);
 
 }
 
@@ -23,6 +25,7 @@
     margin-top: 45px;
     height: 560px;
     margin-left: 15px;
+    background-color: rgb(10, 10, 10);
 
 }
 
@@ -71,4 +74,9 @@
 
 .para {
     margin-left: 380px;
+}
+
+.banner-image {
+    height: 100px;
+    padding-left: 550px;
 }
